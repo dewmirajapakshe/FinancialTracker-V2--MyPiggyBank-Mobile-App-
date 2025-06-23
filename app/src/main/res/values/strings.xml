@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My PiggyBank</string>
+    <string name="welcome_to_imilipocket">Welcome to My PiggyBank!</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="select_date">Select Date</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    
+    <!-- Financial Tools -->
+    <string name="tools_title">Financial Tools</string>
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="emi_description">Calculate loan EMI, interest and total payment</string>
+    <string name="investment_calculator">Investment Calculator</string>
+    <string name="investment_description">Calculate returns on SIP, FD and other investments</string>
+    <string name="gst_calculator">GST Calculator</string>
+    <string name="gst_description">Calculate GST amount and final price</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="currency_description">Convert between different currencies</string>
+    <string name="split_bill">Split Bill Calculator</string>
+    <string name="split_bill_description">Split bills and calculate per person amount</string>
+    <string name="coming_soon">Coming Soon</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyPiggyBank" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink_200</item>
+        <item name="colorPrimaryVariant">@color/pink_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/soft_purple_200</item>
+        <item name="colorSecondaryVariant">@color/soft_purple_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar and Navigation bar -->
+        <item name="android:statusBarColor">@color/pink_700</item>
+        <item name="android:navigationBarColor">@color/pink_700</item>
+        <!-- Background colors -->
+        <item name="android:colorBackground">#1A1A1A</item>
+        <item name="colorSurface">#2C2C2C</item>
+        <!-- No Action Bar -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <!-- Additional Theme Attributes -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

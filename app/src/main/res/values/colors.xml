@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design Base Colors -->
+    <color name="pink_200">#F48FB1</color>
+    <color name="pink_500">#FF4081</color>
+    <color name="pink_700">#FF80AB</color>
+    <color name="soft_purple_200">#CE93D8</color>
+    <color name="soft_purple_700">#BA68C8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App specific colors -->
+    <color name="primary">@color/pink_500</color>
+    <color name="primary_dark">@color/pink_700</color>
+    <color name="primary_light">@color/pink_200</color>
+    <color name="accent">@color/soft_purple_200</color>
+    <color name="secondary">@color/soft_purple_700</color>
+    <color name="background">#FFF5F8</color>
+    <color name="card_background">@color/white</color>
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+    <color name="income_green">#00B894</color>
+    <color name="expense_red">#FF7675</color>
+    <color name="divider">#FFE4E8</color>
+    
+    <!-- Additional cute theme colors -->
+    <color name="soft_peach">#FFCDD2</color>
+    <color name="light_rose">#F8BBD0</color>
+    <color name="pastel_purple">#E1BEE7</color>
+    <color name="soft_blue">#BBDEFB</color>
+    <color name="mint_green">#B2DFDB</color>
+    <color name="warning_peach">#FFAB91</color>
+    <color name="success_mint">#80CBC4</color>
+</resources>
